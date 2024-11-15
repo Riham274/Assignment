@@ -1,0 +1,17 @@
+
+/* Start Task 1 */
+h1{
+    text-align: center;
+}
+
+ul li{
+    font-weight: bold;
+    color: green;
+}
+
+ul{
+    border: 1px solid ;
+    background-color: lightgray;
+}
+/* End Task 1 */
+
